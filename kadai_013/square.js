@@ -1,5 +1,5 @@
 const kadai = (num) => {
-  console.log(num ** 2);
+  return num ** 2;
 };
 
-kadai(10);
+console.log(kadai(10));
